@@ -12,5 +12,5 @@
 ```
 
 ### 页面展示
+<img width="1910" height="1278" alt="PixPin_2025-08-13_16-23-26" src="https://github.com/user-attachments/assets/5e5ad8a7-ed4f-40c2-9a22-4182c9871008" />
 
-![Uploading PixPin_2025-08-13_15-58-59.png…]()
